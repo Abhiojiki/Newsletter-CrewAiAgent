@@ -1,0 +1,14 @@
+[project]
+name = "weeklyainewsletter"
+version = "0.1.0"
+description = "AI-powered newsletter generator using CrewAI and Google Gemini"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai[tools]>=0.186.1",
+    "duckduckgo-search>=8.1.1",
+    "langchain-google-genai>=2.1.12",
+    "python-dotenv>=1.1.1",
+    "reportlab>=4.4.4",
+    "streamlit>=1.49.1",
+]
