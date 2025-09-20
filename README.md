@@ -5,7 +5,7 @@
 ## NEWS LETTER : DuckDuckGo Search & CREW AI
 - News Letter Writer assistant to help generate a LLM powered update Weekly News based on your topic.
 
-![CrewAi App WorkFlow](news_screen.JPG)
+
 
 ## 📝 Streamlit Ai Crew :
 
