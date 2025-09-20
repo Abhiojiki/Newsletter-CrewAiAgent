@@ -5,7 +5,7 @@
 ## NEWS LETTER : DuckDuckGo Search & CREW AI
 - News Letter Writer assistant to help generate a LLM powered update Weekly News based on your topic.
 
-![]([https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif](https://github.com/Abhiojiki/Newsletter-CrewAiAgent/blob/main/Animation.gif))
+![](https://github.com/Abhiojiki/Newsletter-CrewAiAgent/blob/main/Animation.gif))
 
 ## 📝 Streamlit Ai Crew :
 
