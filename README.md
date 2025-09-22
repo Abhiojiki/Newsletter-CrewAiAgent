@@ -7,6 +7,11 @@
 
 ![](https://github.com/Abhiojiki/Newsletter-CrewAiAgent/blob/main/Animation.gif)
 
+![alt](<img width="1778" height="753" alt="image" src="https://github.com/user-attachments/assets/d257df7d-b334-4861-ba35-fefa8b0e179a" />)
+
+![alt](<img width="1615" height="878" alt="image" src="https://github.com/user-attachments/assets/b7343abb-f640-4392-b1a4-eaec8e0b12a7" />)
+
+
 ## 📝 Streamlit Ai Crew :
 
 - `CrewAi` : Framework for Agents, Tasks and Tools (2x2 Agents/Tasks)
